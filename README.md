@@ -1,2 +1,2 @@
 # mini-web-security-scanner
-Mini web security scanner built with Python sockets.
+A simple Python-based web security scanner that checks TCP ports and analyzes HTTP responses and security headers.
