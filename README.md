@@ -27,8 +27,8 @@ python3 test_server.py
 ```bash
 python3 scanner.py
 ```
-**Host:** `127.0.0.1`
-**Port:** `8001`
+- **Host:** `127.0.0.1`
+- **Port:** `8001`
 
 
 
