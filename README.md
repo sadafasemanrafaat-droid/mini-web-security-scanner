@@ -16,6 +16,18 @@ A simple Python-based web security scanner that checks TCP ports and analyzes HT
 
 ```bash
 python3 scanner.py
+```
+markdown
+### 2. Run the test server
+
+```bash
+python3 test_server.py
+```
+markdown
+- **Host:** `127.0.0.1`
+- **Port:** `8001`
+
+
 
 
 
