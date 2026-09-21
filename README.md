@@ -17,3 +17,7 @@ A simple Python-based web security scanner that checks TCP ports and analyzes HT
 ```bash
 python3 scanner.py
 
+
+
+
+
